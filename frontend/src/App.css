@@ -1,0 +1,35 @@
+/* Created */
+
+.actual-table {
+	overflow: scroll;
+	overflow-x: scroll;
+	overflow-y: scroll;
+}
+
+#TopNavigation {
+	top: 0;
+	left: 0;
+	width: 100%;
+	position: -webkit-sticky;
+	position: sticky;
+	z-index: 100;
+}
+
+/* Existing  */
+.App {
+	text-align: center;
+}
+
+#close {
+	float: right;
+	margin-top: 0px;
+}
+
+#open {
+	float: left;
+	margin-top: 0px;
+}
+
+.full-height {
+	height: 95%;
+}

@@ -1,0 +1,42 @@
+.blue {
+	background-color: rgb(144, 159, 246);
+}
+
+.red {
+	background-color: rgb(241, 89, 89);
+}
+.green {
+	background-color: rgb(157, 243, 157);
+}
+.yellow {
+	background-color: rgb(245, 245, 111);
+}
+
+.blueBorder {
+	border: solid blue;
+}
+
+.redBorder {
+	border: solid red;
+}
+.greenBorder {
+	border: solid green;
+}
+.yellowBorder {
+	border: solid yellow;
+}
+
+.modalLink {
+	border: solid 1px black;
+	width: 100%;
+}
+a {
+	color: #0060b6;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #00a0c6;
+	text-decoration: none;
+	cursor: pointer;
+}
